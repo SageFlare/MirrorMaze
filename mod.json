@@ -1,0 +1,24 @@
+{
+  "repo_url": "https://github.com/SageFlare/MirrorMaze",
+  "name": "MirrorMaze",
+  "description": "A large free-for-all maze of live mirrors, illusion walls and breakable mirror tiles.",
+  "mod_type": "Shared",
+  "authors": [
+    "SageFlare"
+  ],
+  "dependencies": [
+    {
+      "repo_url": "https://github.com/SageFlare/MirrorKit",
+      "version": "0.6.0"
+    }
+  ],
+  "tags": [
+    "Map"
+  ],
+  "maps": [
+    "FFA_MirrorMaze"
+  ],
+  "options": {
+    "actor_mod": false
+  }
+}

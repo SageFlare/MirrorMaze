@@ -2,6 +2,7 @@
   "repo_url": "https://github.com/SageFlare/MirrorMaze",
   "name": "MirrorMaze",
   "description": "A large free-for-all maze of live mirrors, illusion walls and breakable mirror tiles.",
+  "image_url": "https://raw.githubusercontent.com/SageFlare/MirrorMaze/main/images/MirrorMaze.png",
   "mod_type": "Shared",
   "authors": [
     "SageFlare"

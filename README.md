@@ -2,7 +2,7 @@
 
 ![MirrorMaze](images/MirrorMaze.png)
 
-Version 0.1.0. Built with [ArgonSDK](https://github.com/Chiv2-Community/ArgonSDK) (Unreal Engine 4.25). Requires [MirrorKit](https://github.com/SageFlare/MirrorKit) 0.6.0 or later.
+Version 0.2.0. Built with [ArgonSDK](https://github.com/Chiv2-Community/ArgonSDK) (Unreal Engine 4.25). Requires [MirrorKit](https://github.com/SageFlare/MirrorKit) 0.7.0 or later.
 
 ## Installation
 

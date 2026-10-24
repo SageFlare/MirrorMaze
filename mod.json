@@ -1,18 +1,24 @@
 {
-  "repo_url": "https://github.com/SageFlare/MirrorMaze",
+  "$schema": "https://raw.githubusercontent.com/Chiv2-Community/zero-infra-mod-registry/v1/schemas/mod.schema.json",
   "name": "MirrorMaze",
   "description": "A large free-for-all maze of live mirrors, illusion walls and breakable mirror tiles.",
-  "image_url": "https://raw.githubusercontent.com/SageFlare/MirrorMaze/main/images/MirrorMaze.png",
-  "mod_type": "Shared",
   "authors": [
     "SageFlare"
   ],
-  "dependencies": [
+  "repo_url": "https://github.com/SageFlare/MirrorMaze",
+  "icon_url": null,
+  "image_urls": [
+    "https://raw.githubusercontent.com/SageFlare/MirrorMaze/main/images/MirrorMaze.png"
+  ],
+  "mod_dependencies": [
     {
       "repo_url": "https://github.com/SageFlare/MirrorKit",
-      "version": "0.7.0"
+      "version": ">=0.9.0,<1.0.0"
     }
   ],
+  "plugin_dependencies": [],
+  "image_url": "https://raw.githubusercontent.com/SageFlare/MirrorMaze/main/images/MirrorMaze.png",
+  "mod_type": "Shared",
   "tags": [
     "Map"
   ],
